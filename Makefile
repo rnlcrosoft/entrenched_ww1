@@ -22,5 +22,5 @@ concat: public
 	@lua $(CONCAT)
 
 clean:
-	@echo "Cleaning public directory and main output..."
-	@rm -rf $(PUBLIC_DIR)/*.lua $(MAIN_OUTPUT)
+	@echo "Cleaning public directory..."
+	@rm -rf $(PUBLIC_DIR)/*.lua
