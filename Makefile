@@ -6,7 +6,7 @@ PUBLIC_DIR = public
 SRC_FILES = $(wildcard $(SRC_DIR)/*.lua)
 PUBLIC_FILES = $(patsubst $(SRC_DIR)/%.lua,$(PUBLIC_DIR)/%.lua,$(SRC_FILES))
 
-.PHONY: all obfuscate concat clean
+.PHONY: all clean public concat
 
 all: clean public concat
 
