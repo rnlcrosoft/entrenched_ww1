@@ -13,8 +13,8 @@ print("Done!")
 
 | Key | Action | Function |
 | --- | --- | --- |
-| **Right Click (Hold)** | **Aim** | **Aimbot ON** + **Invisible OFF** (Visible to server/other players) |
-| **Space** | **Hold** | **TP Jump** (Vertical CFrame) |
+| **Right Click (Hold)** | **Aim** | **Aimbot ON** + **Invisible OFF**|
+| **Space** | **Hold** | **TP Jump**|
 
 ## Features
 
