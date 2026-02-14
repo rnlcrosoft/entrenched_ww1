@@ -3,10 +3,30 @@
 > **PC Client Only**
 > *For educational purposes only.*
 
+### Complete Suite
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/main.lua'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 print("Done!")
+```
+
+### Standalone Modules
+```lua
+-- [[ 1. Aimbot Options (Select One) ]] --
+-- [Type A] Body/RootPart -> Recommended for: Assault, Support
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/aimbot_rootpart.lua'))()
+-- [Type B] Head Aim -> Recommended for: Rifleman, Skirmisher, Recon
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/aimbot_head.lua'))()
+
+-- [[ 2. Utilities ]] --
+-- Invisible
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/invisible.lua'))()
+-- Movement
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/movement.lua'))()
+-- Animation
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/animation.lua'))()
+-- Disable AntiCheat
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/anticheat.lua'))()
 ```
 
 ## Keybinds
