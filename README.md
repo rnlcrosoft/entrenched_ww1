@@ -23,3 +23,5 @@ print("Done!")
 * **Hitbox**: Expands enemy RootPart. Lowers HipHeight + anim spoofing to reduce your hitbox.
 * **Invisible**: Desync/Clone. Server sees your clone frozen/underground while you move freely.
 * **Movement**: Bypasses WalkSpeed/JumpPower limits + Infjump.
+
+![](https://hits.sh/github.com/rnlcrosoft/entrenched_ww1.svg?style=flat-square&label=views&color=blue)
