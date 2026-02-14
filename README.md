@@ -29,7 +29,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/anticheat.lua'))()
 
 -- [[ 3. Trolls ]] --
--- Permanent Invisible (Recommended for Engineer). Warning: Cannot be visible. Allows use of Spade/Hammer for trap construction while hidden.
+-- Permanent Invisible (Recommended for Engineer, Medic). Warning: Cannot be visible. Allows use of Spade/Hammer/Bandage/Revive while hidden.
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/invisible_perm.lua'))()
 ```
 
