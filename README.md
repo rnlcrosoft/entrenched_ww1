@@ -34,6 +34,8 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/invisible_perm.lua'))()
 -- Auto Heal (Recommended for Medic). Increase Body/RootPart Hitbox Size for Heal. Auto heal nearby players.
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/auto_heal.lua'))()
+-- Auto Revive. Automatically instantly revive nearby players.
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/auto_revive.lua'))()
 ```
 
 ## Keybinds
