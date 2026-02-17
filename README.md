@@ -5,7 +5,7 @@
 
 ### Complete Suite
 ```lua
--- Aimbot[Type A] + All Utilities
+-- Aimbot[Type A] + All Utilities (Recommended for Support, Assault)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/main.lua'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 print("Done!")
@@ -14,9 +14,9 @@ print("Done!")
 ### Standalone Modules
 ```lua
 -- [[ 1. Aimbot Options (Select One) ]] --
--- [Type A] Body/RootPart -> Recommended for: Assault, Support
+-- [Type A] Body/RootPart (Recommended for Support, Assault)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/aimbot_rootpart.lua'))()
--- [Type B] Head Aim -> Recommended for: Rifleman, Skirmisher, Recon
+-- [Type B] Head Aim (Recommended for Rifleman, Skirmisher, Recon)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/aimbot_head.lua'))()
 
 -- [[ 2. Utilities ]] --
@@ -32,7 +32,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched
 -- [[ 3. Trolls ]] --
 -- Permanent Invisible (Recommended for Engineer, Medic). Warning: Cannot be visible. Allows use of Spade/Hammer/Bandage/Revive while hidden.
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/invisible_perm.lua'))()
--- Auto Heal (Recommended for Medic). Increase RootPart Hitbox Size for Heal. Auto heal nearby players.
+-- Auto Heal (Recommended for Medic). Increase Body/RootPart Hitbox Size for Heal. Auto heal nearby players.
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/auto_heal.lua'))()
 ```
 
