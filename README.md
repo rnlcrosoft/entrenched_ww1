@@ -5,6 +5,7 @@
 
 ### Complete Suite
 ```lua
+-- Aimbot[Type A] + All Utilities
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/main.lua'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 print("Done!")
@@ -31,7 +32,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched
 -- [[ 3. Trolls ]] --
 -- Permanent Invisible (Recommended for Engineer, Medic). Warning: Cannot be visible. Allows use of Spade/Hammer/Bandage/Revive while hidden.
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/invisible_perm.lua'))()
--- Auto Heal (Recommend for Medic). Increase Heal Hitbox Size. Auto heal nearby players.
+-- Auto Heal (Recommended for Medic). Increase RootPart Hitbox Size for Heal. Auto heal nearby players.
 loadstring(game:HttpGet('https://raw.githubusercontent.com/rnlcrosoft/entrenched_ww1/main/public/auto_heal.lua'))()
 ```
 
